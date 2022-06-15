@@ -1,0 +1,12 @@
+.containerchange{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px;
+    
+    margin: 0 auto;
+    margin-top: 300px;
+}
+.containerchange input{
+    padding: 9px;
+}

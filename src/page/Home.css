@@ -1,0 +1,13 @@
+.container{
+    width: 50%;
+    margin: 0 auto;
+    background-color:blanchedalmond;
+    padding: 15px 30px;
+    
+}
+.posetion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}

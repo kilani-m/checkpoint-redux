@@ -1,0 +1,14 @@
+.list{
+    width: 200px;
+    gap: 10px;
+}
+.select{
+    width: 200px;
+    margin: 10px auto;
+    
+}
+button{
+    width: auto;
+    display: inline-block;
+    background-color: brown;
+}
